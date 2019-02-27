@@ -1,2 +1,5 @@
-public/
 .idea/
+.netlify/
+.vscode/
+public/
+resources/
